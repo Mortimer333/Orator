@@ -1,7 +1,7 @@
 {
     "name": "orator/orator",
     "type": "library",
-    "license": "GNU GENERAL PUBLIC 2",
+    "license": "GPL-2.0-only",
     "autoload": {
         "psr-4": {
             "Orator\\": "src/"
