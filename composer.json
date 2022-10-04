@@ -1,0 +1,20 @@
+{
+    "name": "orator/orator",
+    "type": "library",
+    "license": "GNU GENERAL PUBLIC 2",
+    "autoload": {
+        "psr-4": {
+            "Orator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michal.dzierzbicki",
+            "email": "michal.dzierzbicki@thehutgroup.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-mbstring": "*"
+    }
+}
