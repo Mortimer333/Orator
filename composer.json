@@ -1,5 +1,5 @@
 {
-    "name": "orator/orator",
+    "name": "mortimer/orator",
     "type": "library",
     "license": "GPL-2.0-only",
     "autoload": {
